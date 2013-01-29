@@ -1,0 +1,3 @@
+[submodule "plugins/etsy-plugin"]
+	path = plugins/etsy-plugin
+	url = git@github.etsycorp.com:mhernandez/oh-my-zsh-plugins.git
